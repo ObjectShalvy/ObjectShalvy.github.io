@@ -20,7 +20,9 @@
     align-items: center;
     justify-content: space-between;
 }
-
+.row{
+    cursor: url('/images/meme-pop-cat-pointer.png'),auto;
+}
 /* MyClass */
 .myclass {
     background-color: #f5f6f7;
