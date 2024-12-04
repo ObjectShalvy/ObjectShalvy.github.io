@@ -23,6 +23,15 @@
 .row{
     cursor: url('/images/meme-pop-cat-pointer.png'),auto;
 }
+.card{
+    cursor: url('/images/Bongo_Cat_Pointer.png'),auto;
+}
+.list-group-flush{
+    cursor: url('/images/Bongo_Cat_Pointer.png'),auto;
+}
+.container{
+    cursor: url('/images/batman_eats_a_hotdog_pointer.png'),auto;   
+}
 /* MyClass */
 .myclass {
     background-color: #f5f6f7;
